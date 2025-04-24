@@ -6,6 +6,7 @@ O `kubectl` é a principal ferramenta de linha de comando para interagir com o K
 
 | Comando | Descrição |
 |--------|-----------|
+| `minikube dashboard` | Para abrir a dashboard do minikube para fazer alterações. |
 | `kubectl get pods` | Lista todos os pods no namespace atual |
 | `kubectl get services` ou `kubectl get svc` | Lista todos os serviços |
 | `kubectl get deployments` | Lista todos os deployments |
